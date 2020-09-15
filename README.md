@@ -1,8 +1,8 @@
 # flutter_dmeo
 flutter_demo
 
-fff is the host project
-bbb is flutter module
+app is the host app
+bbb is the flutter module
 
 flutter engine init in APP
 
